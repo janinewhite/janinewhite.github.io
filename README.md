@@ -1,2 +1,1 @@
-# janinewhite.github.io
-Personal web page
+# jgoldpac.github.io
